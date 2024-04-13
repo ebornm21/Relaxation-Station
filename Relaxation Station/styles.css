@@ -1,0 +1,16 @@
+* {
+    background-color: lightcyan;
+}
+
+button {
+    background-color: pink;
+    color: white;
+}
+
+div {
+    width: 100%;
+}
+
+.covered {
+    background-color: black;
+}
