@@ -4,5 +4,5 @@ In progress!
 
 TODO:
  - optimize spacing throughout.
- - make color scheme more consistent.
+ - add more color scheme options.
  - add another page with a puzzle-type game.
