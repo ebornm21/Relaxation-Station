@@ -34,3 +34,14 @@ a {
 .covered {
     background-color: plum;
 }
+
+#grid {
+    border-collapse: collapse;
+    border: 1px solid plum;
+    height: 500px;
+    width: 500px;
+}
+
+#grid td {
+    border: 1px solid plum;
+}
