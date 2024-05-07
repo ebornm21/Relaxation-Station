@@ -45,3 +45,7 @@ a {
 #grid td {
     border: 1px solid plum;
 }
+
+.colored {
+    background-color: plum;
+}
