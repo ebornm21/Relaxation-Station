@@ -35,6 +35,17 @@ a {
     background-color: plum;
 }
 
+#palette {
+    border-collapse: collapse;
+    border: 1px solid plum;
+    height: 50px;
+    width: 200px;
+}
+
+#palette td{
+    border: 1px solid plum;
+}
+
 #grid {
     border-collapse: collapse;
     border: 1px solid plum;
@@ -46,6 +57,38 @@ a {
     border: 1px solid plum;
 }
 
-.colored {
+.colored-plum {
     background-color: plum;
+}
+
+.colored-mauve {
+    background-color: #C91B77;
+}
+
+.colored-dandelion {
+    background-color: #FDF900;
+}
+
+.colored-teal {
+    background-color: #46DCAA;
+}
+
+.colored-plum-opaque {
+    background-color: plum;
+    opacity: .3;
+}
+
+.colored-mauve-opaque {
+    background-color: #C91B77;
+    opacity: .3;
+}
+
+.colored-dandelion-opaque {
+    background-color: #FDF900;
+    opacity: .3;
+}
+
+.colored-teal-opaque {
+    background-color: #46DCAA;
+    opacity: .3;
 }
