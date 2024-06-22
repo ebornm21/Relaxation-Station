@@ -39,7 +39,7 @@ a {
     border-collapse: collapse;
     border: 1px solid plum;
     height: 50px;
-    width: 200px;
+    width: 250px;
 }
 
 #palette td{
@@ -73,6 +73,10 @@ a {
     background-color: #46DCAA;
 }
 
+.colored-blue {
+    background-color: #6B8CFD;
+}
+
 .colored-plum-opaque {
     background-color: plum;
     opacity: .3;
@@ -90,5 +94,10 @@ a {
 
 .colored-teal-opaque {
     background-color: #46DCAA;
+    opacity: .3;
+}
+
+.colored-blue-opaque {
+    background-color: #6B8CFD;
     opacity: .3;
 }
