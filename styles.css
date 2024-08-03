@@ -1,0 +1,113 @@
+* {
+    background-color: lightcyan;
+    color: plum;
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+}
+
+#neon-mode {
+    background-color: black;
+    color: red;
+}
+
+#default-mode {
+    background-color: lightcyan;
+    color: pink;
+}
+
+button {
+    background-color: pink;
+    color: white;
+}
+
+div {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    font-size: large;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+table {
+    margin: auto;
+}
+
+a {
+    color: pink;
+}
+
+.covered {
+    background-color: plum;
+}
+
+#palette {
+    border-collapse: collapse;
+    border: 1px solid plum;
+    height: 50px;
+    width: 250px;
+}
+
+#palette td{
+    border: 1px solid plum;
+}
+
+#grid {
+    border-collapse: collapse;
+    border: 1px solid plum;
+    height: 500px;
+    width: 500px;
+}
+
+#grid td {
+    border: 1px solid plum;
+}
+
+.colored-plum {
+    background-color: plum;
+}
+
+.colored-mauve {
+    background-color: #C91B77;
+}
+
+.colored-dandelion {
+    background-color: #FDF900;
+}
+
+.colored-teal {
+    background-color: #46DCAA;
+}
+
+.colored-blue {
+    background-color: #6B8CFD;
+}
+
+.colored-plum-opaque {
+    background-color: plum;
+    opacity: .3;
+}
+
+.colored-mauve-opaque {
+    background-color: #C91B77;
+    opacity: .3;
+}
+
+.colored-dandelion-opaque {
+    background-color: #FDF900;
+    opacity: .3;
+}
+
+.colored-teal-opaque {
+    background-color: #46DCAA;
+    opacity: .3;
+}
+
+.colored-blue-opaque {
+    background-color: #6B8CFD;
+    opacity: .3;
+}
